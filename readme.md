@@ -2,7 +2,7 @@
 > Pembelajaran untuk mengembangkan skill
 > Belajar di [_here_](https://blearning.kominfo.go.id/). <!-- If you have the project hosted somewhere, include the link here. -->
 
-## Server Requirements
+## Table of Contents
 * [Server Requirements](#server-requirements)
 * [Installasi](#installasi)
 * [Setup](#setup)
